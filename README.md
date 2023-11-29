@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry Steven Cortez Chaglla</h1>
 <h3 align="center">A passionate backend developer from Ecuador, (obiously looking at my Portfolio 😜)</h3>
+![image](https://github.com/HenryCortez/HenryCortez/assets/100394133/f50db972-1732-4901-a934-c19b3dc061d7)
+
 
 - 🔭 I’m currently working on [App_Web_Control_Inventario_FISEI](https://github.com/criticalRobin/App_Web_Control_Inventario_FISEI)
 
