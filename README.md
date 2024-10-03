@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henry Steven Cortez Chaglla</h1>
 <h3 align="center">A passionate backend developer from Ecuador, (obiously looking at my Portfolio 😜)</h3>
 
-- 🔭 I’m currently working on [App_Web_Control_Inventario_FISEI](https://github.com/criticalRobin/App_Web_Control_Inventario_FISEI)
+- 🔭 I’m currently working on [Viajes-y-encominedas-github](https://github.com/HenryCortez/Viajes-y-encominedas-github)
 
-- 🌱 I’m currently learning **Django, Flooter, Java, Astro.**
+- 🌱 I’m currently learning **Django, Flutter, Java, Angular.**
 
 - 👨‍💻 All about me are available at [HenryCortez.github.io](HenryCortez.github.io)
 
