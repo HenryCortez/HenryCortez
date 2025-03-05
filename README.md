@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22393
-Fork on GitHub
-7312
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hola pa👋, soy H. Cortez</h1>
 <h3 align="center">Me gusta más por atras que por delante, espera qué?</h3>
 
@@ -44,21 +29,7 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrycortez&show_icons=true&theme=cobalt&locale=en" alt="henrycortez" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
+
 More
 Github
 Releases
