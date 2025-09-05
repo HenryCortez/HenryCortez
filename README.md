@@ -1,20 +1,15 @@
 
 <h1 align="center">Hola pa👋, soy H. Cortez</h1>
-<h3 align="center">Me gusta más por atras que por delante, espera qué?</h3>
+<h3 align="center">EL SALTO DEL PAPU</h3>
 
-- 🔭 Desarrollando una app movil [menu-restaurante](https://github.com/HenryCortez/menu-restaurante/tree/master/src)
+- 🔭 Desarrollando de todo menos un juego
 
-- 🌱 Ando aprendiendo **.NET, Ionic, ReactNative y Angular**
+- 🌱 Ya aprendi **.NET, ReactNative**, ando aprendiendo servidores y monear atendenchat
 
-- 👯 Colaboro con los pibes en [Proyecto-Alquiler-Vehiculos](https://github.com/Davayme/Proyecto-Alquiler-Vehiculos)
 
 - 👨‍💻 Todo lo mio es tuyo en [https://github.com/HenryCortez?tab=repositories](https://github.com/HenryCortez?tab=repositories)
 
-- 💬 Preguntame sobre **java, nestjs, django o sql**
-
 - 📫 Contactame por **henrystevencortez4566@gmail.com**
-
-- 📄 Más sobre mi en [-----](-----)
 
 - ⚡ **"27/04/2025, recuerdala"**
 
