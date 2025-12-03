@@ -17,7 +17,7 @@ I am a versatile software engineer with hands-on experience across backend devel
 - 👨‍💻 All my projects are available here:  
   **https://github.com/HenryCortez?tab=repositories**  
 - 📫 Contact me at: **henrystevencortez4566@gmail.com**  
-- ⚡ Personal note: **“27/04/2025 — remember the date.”**
+- ⚡ Personal note: **“27/04/2025 — remember the date, the date that I lose it all.”**
 
 ---
 
@@ -58,6 +58,11 @@ I am a versatile software engineer with hands-on experience across backend devel
 
 ### GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrycortez&show_icons=true&theme=dracula&locale=en&layout=compact" alt="henrycortez" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrycortez&show_icons=true&theme=cobalt&locale=en" alt="henrycortez" /></p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/henrycortez?template=terminal&languages=1&lines=1&followup=1&isocalendar=1&achievements=1&activity=1&base.indepth=true&config.timezone=America%2FGuayaquil" alt="GitHub Metrics Advanced" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=henrycortez&theme=flat&no-frame=true&row=1" alt="GitHub Trophies Clean" />
+</p>
 
 ---
