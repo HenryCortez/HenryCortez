@@ -59,7 +59,7 @@ I am a versatile software engineer with hands-on experience across backend devel
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/henrycortez?template=terminal&languages=1&lines=1&followup=1&isocalendar=1&achievements=1&activity=1&base.indepth=true&config.timezone=America%2FGuayaquil" alt="GitHub Metrics Advanced" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=henrycortez)](https://git.io/streak-stats)
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henrycortez&theme=flat&no-frame=true&row=1" alt="GitHub Trophies Clean" />
