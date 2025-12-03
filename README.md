@@ -59,11 +59,11 @@ I am a versatile software engineer with hands-on experience across backend devel
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrycortez&show_icons=true&theme=dracula&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrycortez&show_icons=true&theme=dracula&locale=en&layout=compact" height="150" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrycortez&show_icons=true&theme=cobalt" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrycortez&show_icons=true&theme=cobalt&locale=en" height="150" alt="GitHub Stats" />
 </p>
 
 ---
