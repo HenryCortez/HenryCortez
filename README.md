@@ -57,11 +57,6 @@ I am a versatile software engineer with hands-on experience across backend devel
 ---
 
 ### GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=henrycortez&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henrycortez&theme=tokyo-night&hide_border=true" />
 </p>
